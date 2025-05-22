@@ -17,7 +17,7 @@ dias_semana = {
 # === UI ===
 st.set_page_config(page_title="ABINBEV - HEAT PREDICTION - TAQUINA", layout="centered")
 st.image("TAQUINA.png", width=150)
-st.title("🔥 ABINBEV - HEAT PREDICTION - TAQUINA")
+st.title("ABINBEV - HEAT PREDICTION - TAQUINA")
 
 st.markdown("---")
 st.subheader("📥 Ingresar datos")
